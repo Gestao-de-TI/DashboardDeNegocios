@@ -25,7 +25,7 @@
                 <li><a href={{ route('venda.index') }}><i class="icon-grid"></i>  Lista de Vendas</a></li>
               </ul>
             </li>
-            <li><a href="/creditos"> <i class="icon-writing-whiteboard"></i>Créditos</a></li>
+            {{-- <li><a href="/creditos"> <i class="icon-writing-whiteboard"></i>Créditos</a></li> --}}
             {{-- <li><a href="login"> <i class="icon-logout"></i>Login page </a></li> --}}
     </ul>
     {{-- <span class="heading">Extras</span> --}}
