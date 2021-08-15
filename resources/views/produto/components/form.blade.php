@@ -52,8 +52,8 @@
     <div class="line"></div>
     <div class="form-group row">
       <div class="col-sm-9 ml-auto">
-        <button type="reset" class="btn btn-secondary">Cancel</button>
-        <button type="submit" class="btn btn-primary">Save changes</button>
+        <button type="reset" class="btn btn-secondary">Cancelar</button>
+        <button type="submit" class="btn btn-primary">Salvar</button>
       </div>
     </div>
     <input value="{{ 1 }}" name="user_id" type="hidden" class="form-control">
