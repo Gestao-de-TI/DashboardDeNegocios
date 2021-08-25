@@ -13,17 +13,40 @@
                 <h2 class="h5 no-margin-bottom">Créditos</h2>
               </div>
             </div>
-            {{-- <div class="col-12">
+            <div class="col-12">
                 <div class="block">
                     <div class="title">
                         <strong class="d-block">Guilherme Marçal Calisto</strong>
                     </div>
                     <div class="block-body">
-                        <span class="d-block">Contrução do Back-end, consultas e popular base da dados</span>
+                        <span class="d-block">Contrução do Back-end, consultas e popular base da dados, levantamento de requisitos</span>
                     </div>
                    
                 </div>
-            </div> --}}
+            </div>
+
+            <div class="col-12">
+                <div class="block">
+                    <div class="title">
+                        <strong class="d-block">Rossano Junior</strong>
+                    </div>
+                    <div class="block-body">
+                        <span class="d-block">Contrução do front-end, levantamento de requisitos</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-12">
+                <div class="block">
+                    <div class="title">
+                        <strong class="d-block">Sabrina Alves</strong>
+                    </div>
+                    <div class="block-body">
+                        <span class="d-block">Contrução do front-end, levantamento de requisitos</span>
+                    </div>
+                </div>
+            </div>
+            
             <div class="col-12">
                 <div class="block">
                     <div class="title">
